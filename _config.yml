@@ -43,7 +43,6 @@ locales:
       Home: "Home"
       About: "About"
       Guestbook: "Guestbook"
-      Subscribe: "Subscribe"
     cn:
       Aboutme: "关于我"
       Archives: "存档"
@@ -61,7 +60,6 @@ locales:
       Home: "首页"
       About: "关于"
       Guestbook: "留言"
-      Subscribe: "订阅"
     jp:
       Aboutme: "著者"
       Archives: "アーカイブ"
@@ -79,7 +77,6 @@ locales:
       Home: "ホーム"
       About: "このブログについて"
       Guestbook: "メッセージ"
-      Subscribe: "購読"
     pl:
       Aboutme: "O mnie"
       Archives: "Archiwum"
@@ -97,7 +94,6 @@ locales:
       Home: "Strona główna"
       About: "O mnie"
       Guestbook: "Księga gości"
-      Subscribe: "Subskrypcja"
     kr:
       Aboutme: "저자 소개"
       Archives: "모든 게시물"
@@ -115,7 +111,6 @@ locales:
       Home: "홈"
       About: "소개"
       Guestbook: "방명록"
-      Subscribe: "구독하기"
     ru:
       Aboutme: "Обо мне" # = 'About me'
       Archives: "Архив"
@@ -133,7 +128,6 @@ locales:
       Home: "Домой"
       About: "О блоге"            # = 'About blog'
       Guestbook: "Гостевая книга"
-      Subscribe: "Подписаться"
     tr:
       Aboutme: "Hakkımda"
       Archives: "Arşivler"
@@ -151,7 +145,6 @@ locales:
       Home: "Anasayfa"
       About: "Hakkında"
       Guestbook: "Konuk Defteri"
-      Subscribe: "Abone Ol"
     id:
       Aboutme: "Tentang Saya"
       Archives: "Arsip"
@@ -169,7 +162,6 @@ locales:
       Home: "Beranda"
       About: "Tentang"
       Guestbook: "Buku tamu"
-      Subscribe: "Langganan"
 
 ### your Blogroll info, only name can shown on the page.
 
